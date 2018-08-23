@@ -8,7 +8,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2018-08-23T08:01:19+01:00</lastmod>
+        <lastmod>2018-08-23T08:44:37+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -23,7 +23,7 @@
     <url>
       <loc>http://localhost:4000/humans.txt</loc>
       
-        <lastmod>2018-08-23T08:01:19+01:00</lastmod>
+        <lastmod>2018-08-23T08:44:37+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -42,7 +42,7 @@
     <url>
       <loc>http://localhost:4000/css/main.css</loc>
       
-        <lastmod>2018-08-23T08:01:19+01:00</lastmod>
+        <lastmod>2018-08-23T08:44:37+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
