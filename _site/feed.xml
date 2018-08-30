@@ -2,11 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BSidesLuanda</title>
-    <description>Stay tuned we are setting up, Event comming soon to Luanda - Angola</description>
+    <description>Stay tuned we are setting up, Event comming soon to Luanda - Angola
+
+Security BSidesLDA is a regional Security B-Sides held in Luanda. 
+It operates under the umbrella principles of Security B-Sides as a larger community project within information security. 
+Each Security B-Sides is a community-driven framework for building events for, and by, information security practitioners. 
+The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. 
+It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. 
+It is an intense event with discussions, demos, and interaction from participants. 
+It is where conversations for the next-big-thing are happening. 
+</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 29 Aug 2018 06:58:44 +0100</pubDate>
-    <lastBuildDate>Wed, 29 Aug 2018 06:58:44 +0100</lastBuildDate>
+    <pubDate>Thu, 30 Aug 2018 06:51:05 +0100</pubDate>
+    <lastBuildDate>Thu, 30 Aug 2018 06:51:05 +0100</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>
