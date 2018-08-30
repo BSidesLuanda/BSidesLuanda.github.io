@@ -1,15 +1,14 @@
 # Site settings
 title: BSidesLuanda
-description: |
+description: >
   Stay tuned we are setting up, Event comming soon to Luanda - Angola
-  
-  Security BSidesLDA is a regional Security B-Sides held in Luanda. 
-  It operates under the umbrella principles of Security B-Sides as a larger community project within information security. 
-  Each Security B-Sides is a community-driven framework for building events for, and by, information security practitioners. 
-  The goal is to expand the spectrum of conversation beyond the traditional confines of space and time. 
-  It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. 
-  It is an intense event with discussions, demos, and interaction from participants. 
-  It is where conversations for the next-big-thing are happening. 
+  Security BSidesLDA is a regional Security B-Sides held in Luanda.
+  It operates under the umbrella principles of Security B-Sides as a larger community project within information security.
+  Each Security B-Sides is a community-driven framework for building events for, and by, information security practitioners.
+  The goal is to expand the spectrum of conversation beyond the traditional confines of space and time.
+  It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration.
+  It is an intense event with discussions, demos, and interaction from participants.
+  It is where conversations for the next-big-thing are happening.
 url: 'http://www.bsidesluanda.org'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
