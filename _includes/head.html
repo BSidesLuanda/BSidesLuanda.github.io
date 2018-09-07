@@ -4,6 +4,10 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
+    <meta property="og:title" content="Sponsors" />
+    <meta property="og:site_name" content="BSidesLDA" />
+    <meta property="og:url" content="https://bsidesluanda.org/" />
+    <meta property="og:image" content="{{ site.baseurl }}/images/logo.png" width="400" height="131" alt=""/>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
