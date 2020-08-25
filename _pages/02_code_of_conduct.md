@@ -20,12 +20,13 @@ Simple Expectations:
 
 This Code of Conduct applies to everyone participating in BSides Luanda, including planners, attendees, speakers, and volunteers.
 
-If you experience/witness behavior conflicting with our code of conduct, please contact a volunteer or venue staff. Both BSides Luanda volunteers and Rivers Casino staff will be happy to assist. 
+If you experience/witness behavior conflicting with our code of conduct, please contact a volunteer or staff. Both BSides Luanda volunteers and staff will be happy to assist. 
 
 Reporting can also be done via @BSidesLDA or via email to info@bsidesluanda.org.
 
 This code of conduct is thanks to the fin
+
 Liability:
-BSidesLisbon is not responsible for any actions of attendees, speakers, volunteers or other participants.
+BSides Luanda is not responsible for any actions of attendees, speakers, volunteers or other participants.
 
 "This Code of Conduct inspired by BSidesLisbon and  BSides Pittsburgh Code of Conduct".
