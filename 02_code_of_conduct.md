@@ -24,7 +24,6 @@ If you experience/witness behavior conflicting with our code of conduct, please 
 
 Reporting can also be done via @BSidesLDA or via email to info@bsidesluanda.org.
 
-This code of conduct is thanks to the fin
 
 Liability:
 BSides Luanda is not responsible for any actions of attendees, speakers, volunteers or other participants.
