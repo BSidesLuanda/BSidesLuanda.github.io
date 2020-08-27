@@ -5,9 +5,9 @@
     <description>Stay tuned we are setting up, Event comming soon to Luanda - Angola.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 26 Aug 2020 15:14:01 +0100</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2020 15:14:01 +0100</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Thu, 27 Aug 2020 09:44:45 +0100</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2020 09:44:45 +0100</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
   </channel>
 </rss>
